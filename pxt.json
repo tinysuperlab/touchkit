@@ -1,0 +1,19 @@
+{
+    "name": "mp3touch",
+    "version": "0.0.0",
+    "description": "MP3 Player with Touch package for the Calliope mini MP3Touch board",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "mp3touch.ts",
+	"_locales/de/mp3touch-strings.json",
+        "_locales/de/mp3touch-jsdoc-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}

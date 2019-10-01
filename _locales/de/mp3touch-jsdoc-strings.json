@@ -1,0 +1,17 @@
+{
+	"mp3touch.playIndex": "Wählt eine mp3 Datei aus ( index ist die nummer der Datei die abgespielt werden soll )",
+	"mp3touch.playMP3Index": "Wählt eine mp3 Datei aus, die im Ordner MP3 ist",
+	"mp3touch.specifyFolderIndex": "Wählt eine mp3 Datei aus, die in einem Ordner ( der Ordner Name muss eine Nummer sein z.B. 0021 )",
+	"mp3touch.pause": "Pausiet die wiedergabe",
+	"mp3touch.resume": "Setzt die zuvor pausiete wiedergabe fort",
+	"mp3touch.playNext": "Spielt die nächste mp3 Datei",
+	"mp3touch.playPrevious": "Spielt die vorherige mp3 Datei",
+	"mp3touch.playLoop": "Spielt alle mp3 Dateien in einer Schleife",
+	"mp3touch.setVolume": "Setzt die Lautstärke auf einen Wert, der maximal 30 sein darf",
+	"mp3touch.increaseVolume": "Erhöht die Lautstärke",
+	"mp3touch.decreaseVolume": "Verringert die Lautstärke",
+	
+	"grove_mpr121.init": "initialisiere den Touch Sensor",
+	"grove_mpr121.touchedFeeler": "lese Fühlernummer",
+	"grove_mpr121.touchedFeelers": "lese berührte Fühlernummern"
+}

@@ -1,0 +1,17 @@
+{
+	"mp3touch.playIndex|block": "Spiele Datei | %index | ab",
+	"mp3touch.playMP3Index|block": "Im Ordner MP3 spiele Datei | %index | ab",
+	"mp3touch.specifyFolderIndex|block": "Im Ordner | %folder | spiele Datei | %index | ab",
+	"mp3touch.pause|block": "Pausieren",
+	"mp3touch.resume|block": "Fortsetzen",
+	"mp3touch.playNext|block": "Spiel nächste",
+	"mp3touch.playPrevious|block": "Spiel vorherige",
+	"mp3touch.playLoop|block": "Spiele in Schleife",
+	"mp3touch.setVolume|block": "Setzte die Lautstärke auf | %volume",
+	"mp3touch.increaseVolume|block": "Erhöhe die Lautstärke",
+	"mp3touch.decreaseVolume|block": "Verringere die Lautstärke",
+	
+	"mp3touch.init|block": "initialisiere den Grove I2C Touch Sensor",
+	"mp3touch.touchedFeeler|block": "lese Fühlernummer",
+	"mp3touch.touchedFeelers|block": "lese berührte Fühler"
+}
