@@ -1,5 +1,5 @@
 {
-    "name": "mp3touch",
+    "name": "TouchKit",
     "version": "0.0.0",
     "description": "Blocks to integrate TouchKit. An extension board that adds twelve touch pins and MP3 SD-Card functionality to the Calliope mini.",
     "license": "MIT",
