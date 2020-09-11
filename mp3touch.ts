@@ -1,5 +1,5 @@
 
-//% color=#0fbc11 icon="\uf120" block="mp3touch"
+//% color=#0fbc11 icon="\uf25b" block="TouchKit"
 namespace mp3touch {
 
 	serial.onDataReceived("", () => {
